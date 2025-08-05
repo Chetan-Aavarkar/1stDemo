@@ -1,2 +1,2 @@
 # 1stDemo
-This is trial repo for demo
+This is trial repo for demo.
